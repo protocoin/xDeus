@@ -1,0 +1,16 @@
+.fixed_padding {
+	
+	padding-top: 5px;
+	padding-bottom: -10px;
+	
+}
+
+@media screen and (min-width: 480px){
+	
+	.fixed_padding {
+	
+		padding-top: 50px;
+	
+	}
+
+}
