@@ -1,0 +1,175 @@
+.navbar-default{
+    background:transparent;
+    border:none !important;
+}
+.navbar-default-no{
+	background: #e8e8e8;
+    border:none !important;
+}
+a {
+	color: #000;
+}
+a:hover {
+	color: #000;
+}
+.navbar-nav>li>a:hover{
+    color:#1a1a1a;
+}
+.collapse.in{
+    
+    background-color:#f0f0f0 !important;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus
+.spacer{
+   background-color:#888;   
+}
+
+.spacer{
+    height:100px;
+}
+
+.head-bg{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+.head-content {
+	background-image: url('../img/image.jpg');
+	background-size: cover;
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+}
+.head-style{
+	background: rgba(1,1,1, 0.1);
+	width: 100%;
+	height: 50%;
+	position:absolute;
+	top: 15%;
+}
+.center-chev{
+	width:10%;
+	position: absolute;
+	top: 50%;
+	left:45%;
+	color: #ccc;
+}
+
+.sec-about{
+	position: absolute;
+	top: 100%;
+	width: 100%;
+	height: 80%;
+	background-color: #0e3752;
+}
+.sec-live{
+	position: absolute;
+	top: 180%;
+	width: 100%;
+	height: 65%;
+	background-color: #1b1f23;
+}
+.sec-footer{
+	position: absolute;
+	top: 245%;
+	width: 100%;
+	height: 100%;
+	background-color: #0e3752;
+}
+li a {
+   color: #000 !important;
+  }
+.fix-color{
+	color: #ccc !important;
+}
+hr {
+    max-width: 50px;
+    border-color: #2389ce;
+    border-width: 3px;
+}
+hr.separator {
+    border-color: #fff;
+}
+.heading-2{
+	font-family: Impact,Haettenschweiler,Franklin Gothic Bold,Charcoal,Helvetica Inserat,Bitstream Vera Sans Bold,Arial Black,sans serif;
+	color: white;
+	text-align: center;
+}
+.about-detail{
+	font-size: 20px;
+	color: white;
+	width:60%;
+	position: absolute;
+	top: 15%;
+	left: 20%;
+}
+.text-ab{
+	font-size: 18px;
+	text-align: center;
+}
+
+.panel-sz{
+	width: 30%;
+	height: 30%;
+}
+.form-sz{
+	width: 40%;
+}
+.buy-pos{
+	position: absolute;
+	top: 80%;
+	left: 15%;
+}
+.sell-pos{
+	position: absolute;
+	top: 80%;
+	right: 15%;
+}
+.pos-1{
+	position: absolute;
+	top: 30%;
+	left: 5%;
+}
+.pos-2{
+	position: absolute;
+	top: 30%;
+	left: 55%;
+}
+.pos-p{
+	position: absolute;
+	bottom: 5%;
+	left: 5%;
+}
+.pos-btn{
+	position: absolute;
+	bottom: 5%;
+	right: 5%;
+}
+.buy-td{
+	width: 30%;
+	position: absolute;
+	left: 15%;
+	top: 120%;
+	
+}
+.sell-td{
+	width: 30%;
+	position: absolute;
+	right: 15%;
+	top: 120%;
+	
+}
+.char-sz{
+	width: 70%;
+	position: absolute;
+	right: 15%;
+	top: 25%;
+}
+.al-sz{
+	width: 50%;
+	position: fixed;
+	right: 25%;
+	top: 45%;
+	z-index:999;
+	text-align: center;
+}
